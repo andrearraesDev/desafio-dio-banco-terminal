@@ -64,6 +64,4 @@ Este projeto foi fundamental para consolidar conhecimentos básicos da linguagem
 - Separação de responsabilidades
 - Boas práticas de desenvolvimento em pequenos projetos
 
-## 👨‍💻 Autor
-
 ### Desenvolvido com ❤️ por André Arraes como parte do bootcamp da DIO.
