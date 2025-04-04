@@ -1,4 +1,4 @@
-# 🏦 Desafio DIO - Simulador de Conta Bancária no Terminal
+# 🏦 Simulador de Conta Bancária no Terminal
 
 Este projeto consiste em um **simulador de conta bancária**, desenvolvido em Java para rodar no terminal. O usuário informa seus dados pessoais e realiza um **depósito inicial**, recebendo de volta uma mensagem formatada com os dados da conta gerada automaticamente. Este desafio faz parte do bootcamp da **Digital Innovation One (DIO).**
 
